@@ -1,0 +1,1 @@
+A diferença entre o git add -a e o git add . consiste no primeiro gerar a adição de todas as mudanças no indice, enquanto o segundo gerar a adição somente de arquivos novos e alterados, mas não de arquivos deletados
