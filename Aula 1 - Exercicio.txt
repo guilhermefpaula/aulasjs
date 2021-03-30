@@ -1,0 +1,1 @@
+1 - A diferença entre let e const é que let é usado para declaração de valores variaveis, aos quais pode ser atribuido um valor diferente em multiplas declarações caso necessario, enquanto const é usado para declarar valores estaveis e pré-definidos, como pi
