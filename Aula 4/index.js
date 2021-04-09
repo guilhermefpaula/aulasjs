@@ -1,4 +1,4 @@
-let numeroAnalisado = 21;
+const numeroAnalisado = 21;
 let parametroFinal = numeroAnalisado + 10
 let numeroAnterior1 = 1;
 let numeroAnterior2 = 1;
@@ -20,5 +20,5 @@ if (numeroAtual === numeroAnalisado) {
     console.log('O número', numeroAnalisado,  'está dentro do conjunto de numeros que compõe a sequência de fibonacci');
 } 
 else {
-    console.log('O número', numeroAnalisado, 'não está dentro do conjunto de numeros que compõe a sequência de fibonacci');
+    console.log('O número', numeroAnalisado, 'está dentro do conjunto de numeros que compõe a sequência de fibonãocci');
 }
